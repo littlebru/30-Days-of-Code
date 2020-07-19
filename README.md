@@ -1,8 +1,14 @@
-# 30-Days-of-Code
-solving HackerRank exercises
+# 30 Days of Code
 
-Python Exercises (Beginner)
+solving HackerRank Python exercises
 
-Day 01
-        - Hello World
-        - Data Types
+
+##### Day 01
+    
+- [Hello World]()
+- [Data Types]()
+
+<!--
+##### Day XX
+[]()
+-->
