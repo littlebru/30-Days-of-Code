@@ -12,3 +12,6 @@ solving HackerRank Python exercises
 
 ##### Day 02
 - [Operators](https://github.com/littlebru/30-Days-of-Code/blob/master/3_operators.py)
+
+##### Day 03
+- [Conditional Statements](https://github.com/littlebru/30-Days-of-Code/blob/master/4_Conditional_Statements.py)
