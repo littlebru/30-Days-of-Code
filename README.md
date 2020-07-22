@@ -15,3 +15,6 @@ solving HackerRank Python exercises
 
 ##### Day 03
 - [Conditional Statements](https://github.com/littlebru/30-Days-of-Code/blob/master/4_Conditional_Statements.py)
+
+##### Day 04
+- [Class vs. Instance](https://github.com/littlebru/30-Days-of-Code/blob/master/5_Class_vs_Instance.py)
