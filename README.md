@@ -4,7 +4,6 @@ solving HackerRank Python exercises
 
 
 ##### Day 00
-    
 - [Hello World](https://github.com/littlebru/30-Days-of-Code/blob/master/1_hello_world.py)
 
 ##### Day 01
@@ -18,3 +17,6 @@ solving HackerRank Python exercises
 
 ##### Day 04
 - [Class vs. Instance](https://github.com/littlebru/30-Days-of-Code/blob/master/5_Class_vs_Instance.py)
+
+##### Day 05
+- [Loops](https://github.com/littlebru/30-Days-of-Code/blob/master/6_Loops.py)
