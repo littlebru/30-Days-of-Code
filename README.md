@@ -20,3 +20,6 @@ solving HackerRank Python exercises
 
 ##### Day 05
 - [Loops](https://github.com/littlebru/30-Days-of-Code/blob/master/6_Loops.py)
+
+##### Day 06
+- [String](https://github.com/littlebru/30-Days-of-Code/blob/master/7_String.py)
