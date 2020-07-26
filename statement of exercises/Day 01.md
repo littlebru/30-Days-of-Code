@@ -49,6 +49,8 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 ## My Resolution
 
 ```python
+# @author: Bruna Gomes
+
 i = 4
 d = 4.0
 s = 'HackerRank '
