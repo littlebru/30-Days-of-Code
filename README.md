@@ -1,6 +1,6 @@
-# 30 Days of Code
+![Banner 30 Days to Code](https://github.com/littlebru/30-Days-of-Code/blob/master/images/Banner.png)
 
-solving HackerRank Python exercises
+    Solving HackerRank Python exercises
 
 
 ##### Day 00
