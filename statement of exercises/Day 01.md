@@ -49,7 +49,7 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 ## My Resolution
 
 ```python
-# @author: Bruna Gomes
+# @author: Bruna Gomes (littlebru)
 
 i = 4
 d = 4.0
