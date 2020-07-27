@@ -26,3 +26,6 @@
 
 ##### Day 07
 - [Arrays](https://github.com/littlebru/30-Days-of-Code/blob/master/8_Arrays.py)
+
+##### Day 08
+- [Dictionaries and Maps](https://github.com/littlebru/30-Days-of-Code/blob/master/9_Dictionaries_and_Maps.py)
